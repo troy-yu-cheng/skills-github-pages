@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+SNA: Edgelists data in a multi-agents system
 ---
 
